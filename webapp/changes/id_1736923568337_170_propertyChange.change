@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1736923568337_170_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "com.btc.ofisdevamraporu",
+    "packageName": "",
+    "content": {
+        "property": "growingThreshold",
+        "newValue": 100
+    },
+    "selector": {
+        "id": "com.btc.ofisdevamraporu::sap.suite.ui.generic.template.ListReport.view.ListReport::RaporSet--responsiveTable",
+        "idIsLocal": false,
+        "type": "sap.m.Table"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/com.btc.ofisdevamraporu/changes/",
+    "projectId": "",
+    "creation": 1736923568337,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.71.72",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
