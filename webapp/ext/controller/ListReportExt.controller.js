@@ -2,8 +2,9 @@ sap.ui.define([
     "sap/ui/model/Filter", 
     "sap/ui/comp/smartfilterbar/SmartFilterBar", 
     "sap/m/ComboBox",
-    "sap/m/MultiComboBox"
-], function (Filter, SmartFilterBar, MultiComboBox) {
+    "sap/m/MultiComboBox",
+    "sap/ui/model/FilterOperator"
+], function (Filter, SmartFilterBar, MultiComboBox, ComboBox, FilterOperator) {
     "use strict";
     return {
         getCustomAppStateDataExtension: function (oCustomData) {

@@ -20,6 +20,6 @@ builder:
           name: ZMB_OFS_DVM_RPR
           description: Ofis Devam Raporu
           package: ZFIORI
-          transport: BGDK901894
+          transport: BGDK901896
         exclude:
           - /test/
